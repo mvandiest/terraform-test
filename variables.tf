@@ -1,0 +1,3 @@
+variable "platformVersion" {
+	default = "latest"
+}
